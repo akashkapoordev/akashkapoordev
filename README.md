@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Akash Kapoor</h1>
 <h3 align="left">A passionate Unity Game Developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://akashkapoordev.netlify.app](https://akashkapoordev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://akashkapoordev.com](https://akashkapoordev.com)
 
 - 📫 How to reach me **akashkapoordev@gmail.com**
 
