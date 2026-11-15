@@ -1,38 +1,40 @@
-# Hi 👋, I'm Akash Kapoor
+# Hi, I'm Akash 👋
 
-**Game Programmer from Canada — Unity / C++ / C#**
+**Game programmer in Toronto.** Unity / C# / C++. I like the point where a technical problem turns into something you can play.
 
-🛠️ Working on a **2D RPG Combat System in Unity** — state-pattern player controller, dodge mechanic, new Input System. Repo: [RPG_Game](https://github.com/akashkapoordev/RPG_Game)
+## 🎩 Now: GangsterCoop
 
-💼 Previously **Unity Developer at AppMechanics** — shipped Play Store titles and a multiplayer VR office on the Oculus store
+[![GangsterCoop gag combos](https://raw.githubusercontent.com/akashkapoordev/unity-noodle-limbs/main/Documentation~/gag_combos.gif)](https://akashkapoordev.itch.io/gangstercoop-template)
 
-👨‍💻 Portfolio: [akashkapoordev.com](https://akashkapoordev.com) &nbsp;•&nbsp; 📫 [akashkapoordev@gmail.com](mailto:akashkapoordev@gmail.com)
+A 1930s rubber-hose co-op roguelite for 1–4 players: Tommy guns, falling pianos and gag combos. It's sold as a
+complete Unity 6 project you can open, learn from and reskin → **[GangsterCoop on itch.io](https://akashkapoordev.itch.io/gangstercoop-template)**
 
----
+Open-sourced from it: **[unity-noodle-limbs](https://github.com/akashkapoordev/unity-noodle-limbs)**, the rubber-hose
+limb renderer. It draws one ink-outlined tube mesh per limb, which cut the frame cost from ~55 ms to ~4.5 ms with 60 enemies on screen. MIT licensed.
 
-### Connect
+## 🕹️ Other projects
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akashkapoordev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkapoordev/)
+| Project | What it is | Built with |
+|---|---|---|
+| [Snake2D](https://github.com/akashkapoordev/Snake2D) · [play](https://akashkapoordev.itch.io/snake-2d) | Snake with local multiplayer, power-ups and screen wrapping | Unity, C# |
+| [Light-Escape](https://github.com/akashkapoordev/Light-Escape) · [play](https://akashkapoordev.itch.io/lightescape) | 2D stealth: stay out of the light to survive | Unity, C# |
+| [MVC-BattleTank](https://github.com/akashkapoordev/MVC-BattleTank) | Two-player 3D tank battle | Unity, C#, MVC |
+| Design patterns in Unity | [State](https://github.com/akashkapoordev/AGD_StateMachine) · [Command](https://github.com/akashkapoordev/AGD_CommandPattern) · [Observer](https://github.com/akashkapoordev/AGD_ObserverPattern_EventfulEscape) · [Object Pool](https://github.com/akashkapoordev/AGD_ObjectPooling_CosmicCuration) · [Service Locator](https://github.com/akashkapoordev/AGD_ServiceLocator) | Unity, C# |
+| C++ games and visualizers | [DunkHunt](https://github.com/akashkapoordev/DunkHunt) · [MineSweeper](https://github.com/akashkapoordev/MineSweeper) · [Linked-List-Snake](https://github.com/akashkapoordev/Linked-List-Snake) · [Sorting-Stick](https://github.com/akashkapoordev/Sorting-Stick) | C++, SFML |
+
+## 💼 Before this
+
+**Unity Developer at AppMechanics** (2022–2023): shipped Play Store titles and a multiplayer VR office on the Oculus
+store, using Photon networking and AWS.
+
+## 🔗 Find me
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://akashkapoordev.com)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akashkapoordev.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkapoordev/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akashkapoordev)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/akashkapoordev.bsky.social)
 
-### Languages & Tools
+📫 [akashkapoordev@gmail.com](mailto:akashkapoordev@gmail.com)
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### GitHub Stats
-
-![Akash's stats](https://github-readme-stats.vercel.app/api?username=akashkapoordev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkapoordev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub streak](https://streak-stats.demolab.com/?user=akashkapoordev&theme=tokyonight&hide_border=true)
+**Tools:** Unity · C# · C++ · SFML · URP · Photon · Git
